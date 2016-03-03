@@ -1,2 +1,2 @@
-# BQ-miniclip
-Trabajo con la placa miniclip
+# BQ-miniblip
+Trabajo con la placa miniblip
